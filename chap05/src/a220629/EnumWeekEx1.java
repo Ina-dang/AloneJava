@@ -1,0 +1,45 @@
+package a220629;
+
+import java.util.Calendar;
+
+public class EnumWeekEx1 {
+	public static void main(String[] args) {
+		Week today = null;
+		
+			//getInstance()메소드로 Calendar객체 생성후 caldendar 변수에 대입
+		Calendar calendar = Calendar.getInstance();
+									//일(1)~토(7)까지의 숫자 리턴
+		int week = calendar.get(Calendar.DAY_OF_WEEK);
+		
+		switch (week) {
+		case 1:
+			today = Week.SUNDAY;
+			break;
+		case 2:
+			today = Week.MONDAY;
+			break;
+		case 3:
+			today = Week.TUESDAY;
+			break;
+		case 4:
+			today = Week.WEDNESDAY;
+			break;
+		case 5:
+			today = Week.THURSDAY;
+			break;
+		case 6:
+			today = Week.FRIDAY;
+			break;
+		case 7:
+			today = Week.SATURDAY;
+			break;
+		}
+		System.out.println("오늘 요일 : " + today);
+		
+		if (today == Week.SUNDAY) {
+			System.out.println("일요일에는 칼바람을 합니다.");
+		} else {
+			System.out.println("열심히 자바 공부를 합니다");
+		}
+	}
+}
