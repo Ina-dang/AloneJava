@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="a220701.Student"/>
@@ -15,4 +14,11 @@
     <fullyQualifiedTypeName name="a220706.Computer"/>
     <fullyQualifiedTypeName name="a220706.Car"/>
     <fullyQualifiedTypeName name="a220706.Square"/>
+    <fullyQualifiedTypeName name="a220707.Calculator"/>
+    <fullyQualifiedTypeName name="a220707.Error"/>
+    <fullyQualifiedTypeName name="a220707.Singleton"/>
+    <fullyQualifiedTypeName name="a220707.PersonEx"/>
+    <fullyQualifiedTypeName name="a220707.Person"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="a220707.Earth"/>
 </qualifiedTypeNameHistroy>
