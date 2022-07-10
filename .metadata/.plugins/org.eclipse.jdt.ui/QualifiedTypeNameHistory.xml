@@ -22,4 +22,11 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="a220707.Earth"/>
     <fullyQualifiedTypeName name="a220708.Car"/>
+    <fullyQualifiedTypeName name="chap07.Cellphone"/>
+    <fullyQualifiedTypeName name="chap07.DmbCellPhone"/>
+    <fullyQualifiedTypeName name="chap07.Calculator"/>
+    <fullyQualifiedTypeName name="chap07.Computer"/>
+    <fullyQualifiedTypeName name="chap07.Airplane"/>
+    <fullyQualifiedTypeName name="chap07.SupersonicAirplane"/>
+    <fullyQualifiedTypeName name="chap07.Car"/>
 </qualifiedTypeNameHistroy>
