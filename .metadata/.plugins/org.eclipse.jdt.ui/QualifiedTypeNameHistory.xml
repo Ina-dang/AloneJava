@@ -29,4 +29,26 @@
     <fullyQualifiedTypeName name="chap07.Airplane"/>
     <fullyQualifiedTypeName name="chap07.SupersonicAirplane"/>
     <fullyQualifiedTypeName name="chap07.Car"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="chap07.Child"/>
+    <fullyQualifiedTypeName name="chap07.Parent"/>
+    <fullyQualifiedTypeName name="jdk.internal.jshell.tool.StopDetectingInputStream"/>
+    <fullyQualifiedTypeName name="chap07.Tire"/>
+    <fullyQualifiedTypeName name="chap07.TireCar"/>
+    <fullyQualifiedTypeName name="chap07.Hankook"/>
+    <fullyQualifiedTypeName name="chap07.Kumho"/>
+    <fullyQualifiedTypeName name="chap07.Vehicle"/>
+    <fullyQualifiedTypeName name="chap07.Driver"/>
+    <fullyQualifiedTypeName name="chap07.Bus"/>
+    <fullyQualifiedTypeName name="chap07.Taxi"/>
+    <fullyQualifiedTypeName name="chap07.Baby"/>
+    <fullyQualifiedTypeName name="chap07.Dad"/>
+    <fullyQualifiedTypeName name="a220712.Phone"/>
+    <fullyQualifiedTypeName name="a220712.SmartPhone"/>
+    <fullyQualifiedTypeName name="a220712.Dog"/>
+    <fullyQualifiedTypeName name="a220712.Animal"/>
+    <fullyQualifiedTypeName name="a220712.Cat"/>
+    <fullyQualifiedTypeName name="a220712.RemoteControl"/>
+    <fullyQualifiedTypeName name="a220712.Television"/>
+    <fullyQualifiedTypeName name="a220712.Searchable"/>
 </qualifiedTypeNameHistroy>
