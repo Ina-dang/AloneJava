@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="a220701.Student"/>
     <fullyQualifiedTypeName name="a220704.Car"/>
     <fullyQualifiedTypeName name="a220705.Korean"/>
@@ -51,4 +48,16 @@
     <fullyQualifiedTypeName name="a220712.RemoteControl"/>
     <fullyQualifiedTypeName name="a220712.Television"/>
     <fullyQualifiedTypeName name="a220712.Searchable"/>
+    <fullyQualifiedTypeName name="D"/>
+    <fullyQualifiedTypeName name="a220713.A.B"/>
+    <fullyQualifiedTypeName name="a220713.A"/>
+    <fullyQualifiedTypeName name="a220713.A.C"/>
+    <fullyQualifiedTypeName name="a220713.Outer"/>
+    <fullyQualifiedTypeName name="a220713.OuterNested"/>
+    <fullyQualifiedTypeName name="a220713.OuterNested.Nested"/>
+    <fullyQualifiedTypeName name="javax.swing.ButtonModel"/>
+    <fullyQualifiedTypeName name="a220713.Button.OnClickListener"/>
+    <fullyQualifiedTypeName name="a220713.Button"/>
+    <fullyQualifiedTypeName name="a220713.CallListener"/>
+    <fullyQualifiedTypeName name="a220713.MessageListener"/>
 </qualifiedTypeNameHistroy>
