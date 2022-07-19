@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="a220701.Student"/>
-    <fullyQualifiedTypeName name="a220704.Car"/>
-    <fullyQualifiedTypeName name="a220705.Korean"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="a220705.Car"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
-    <fullyQualifiedTypeName name="a220706.CalculatorEx"/>
-    <fullyQualifiedTypeName name="a220706.Calculator"/>
-    <fullyQualifiedTypeName name="a220706.Computer"/>
-    <fullyQualifiedTypeName name="a220706.Car"/>
-    <fullyQualifiedTypeName name="a220706.Square"/>
-    <fullyQualifiedTypeName name="a220707.Calculator"/>
-    <fullyQualifiedTypeName name="a220707.Error"/>
     <fullyQualifiedTypeName name="a220707.Singleton"/>
     <fullyQualifiedTypeName name="a220707.PersonEx"/>
     <fullyQualifiedTypeName name="a220707.Person"/>
@@ -56,8 +43,21 @@
     <fullyQualifiedTypeName name="a220713.OuterNested"/>
     <fullyQualifiedTypeName name="a220713.OuterNested.Nested"/>
     <fullyQualifiedTypeName name="javax.swing.ButtonModel"/>
-    <fullyQualifiedTypeName name="a220713.Button.OnClickListener"/>
-    <fullyQualifiedTypeName name="a220713.Button"/>
     <fullyQualifiedTypeName name="a220713.CallListener"/>
     <fullyQualifiedTypeName name="a220713.MessageListener"/>
+    <fullyQualifiedTypeName name="a220713.AnnonymousEx"/>
+    <fullyQualifiedTypeName name="a220713.Person"/>
+    <fullyQualifiedTypeName name="a220713.Anonymous"/>
+    <fullyQualifiedTypeName name="a220713.RemoteControl"/>
+    <fullyQualifiedTypeName name="a220713.AnonymousRC"/>
+    <fullyQualifiedTypeName name="a220713.Button.OnClickListener"/>
+    <fullyQualifiedTypeName name="a220713.Button"/>
+    <fullyQualifiedTypeName name="a220713.Window"/>
+    <fullyQualifiedTypeName name="a220714.Parent"/>
+    <fullyQualifiedTypeName name="a220719.Member"/>
+    <fullyQualifiedTypeName name="a220719.Key"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="a220719.Phone"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
