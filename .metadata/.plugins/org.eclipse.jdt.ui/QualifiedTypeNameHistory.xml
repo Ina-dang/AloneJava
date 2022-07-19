@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="a220707.Singleton"/>
-    <fullyQualifiedTypeName name="a220707.PersonEx"/>
     <fullyQualifiedTypeName name="a220707.Person"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="a220707.Earth"/>
     <fullyQualifiedTypeName name="a220708.Car"/>
     <fullyQualifiedTypeName name="chap07.Cellphone"/>
@@ -60,4 +57,7 @@
     <fullyQualifiedTypeName name="a220719.Phone"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
