@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap07.SupersonicAirplane"/>
-    <fullyQualifiedTypeName name="chap07.Car"/>
-    <fullyQualifiedTypeName name="java.lang.Package"/>
-    <fullyQualifiedTypeName name="chap07.Child"/>
     <fullyQualifiedTypeName name="chap07.Parent"/>
     <fullyQualifiedTypeName name="jdk.internal.jshell.tool.StopDetectingInputStream"/>
     <fullyQualifiedTypeName name="chap07.Tire"/>
@@ -54,10 +50,14 @@
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="a220725.BeepTask"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="com.sun.media.sound.Toolkit"/>
+    <fullyQualifiedTypeName name="a220726.BeepThread"/>
     <fullyQualifiedTypeName name="java.awt.Toolkit"/>
+    <fullyQualifiedTypeName name="a220726.ThreadB"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="a220726.Calculator"/>
+    <fullyQualifiedTypeName name="a220726.User1"/>
 </qualifiedTypeNameHistroy>
