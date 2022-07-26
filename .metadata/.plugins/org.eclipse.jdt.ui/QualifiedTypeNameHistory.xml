@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap07.Parent"/>
-    <fullyQualifiedTypeName name="jdk.internal.jshell.tool.StopDetectingInputStream"/>
-    <fullyQualifiedTypeName name="chap07.Tire"/>
-    <fullyQualifiedTypeName name="chap07.TireCar"/>
     <fullyQualifiedTypeName name="chap07.Hankook"/>
     <fullyQualifiedTypeName name="chap07.Kumho"/>
     <fullyQualifiedTypeName name="chap07.Vehicle"/>
@@ -57,7 +53,11 @@
     <fullyQualifiedTypeName name="java.awt.Toolkit"/>
     <fullyQualifiedTypeName name="a220726.ThreadB"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="a220726.Calculator"/>
     <fullyQualifiedTypeName name="a220726.User1"/>
+    <fullyQualifiedTypeName name="a220727.PrintThread1"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="a220727.AutoSaveThread"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
 </qualifiedTypeNameHistroy>
