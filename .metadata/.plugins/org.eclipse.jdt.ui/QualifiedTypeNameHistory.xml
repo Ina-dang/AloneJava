@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="a220712.Animal"/>
-    <fullyQualifiedTypeName name="a220712.Cat"/>
-    <fullyQualifiedTypeName name="a220712.RemoteControl"/>
-    <fullyQualifiedTypeName name="a220712.Television"/>
-    <fullyQualifiedTypeName name="a220712.Searchable"/>
-    <fullyQualifiedTypeName name="D"/>
-    <fullyQualifiedTypeName name="a220713.A.B"/>
-    <fullyQualifiedTypeName name="a220713.A"/>
-    <fullyQualifiedTypeName name="a220713.A.C"/>
-    <fullyQualifiedTypeName name="a220713.Outer"/>
-    <fullyQualifiedTypeName name="a220713.OuterNested"/>
     <fullyQualifiedTypeName name="a220713.OuterNested.Nested"/>
     <fullyQualifiedTypeName name="javax.swing.ButtonModel"/>
     <fullyQualifiedTypeName name="a220713.CallListener"/>
@@ -26,10 +15,8 @@
     <fullyQualifiedTypeName name="a220714.Parent"/>
     <fullyQualifiedTypeName name="a220719.Member"/>
     <fullyQualifiedTypeName name="a220719.Key"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="a220719.Phone"/>
     <fullyQualifiedTypeName name="java.lang.Character"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
@@ -53,11 +40,24 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="a220813.ArrayListEx"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="a220813.LinkedListEx"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Hashtable"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="sun.security.util.Password"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="a220814.Coin"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="a220814.Message"/>
 </qualifiedTypeNameHistroy>
